@@ -25,7 +25,8 @@ class LandingPageContainer extends Component {
   }
 
   handleClick = (e) => {
-    window.location.href = "app.malus.finance";
+    window.open("https://app.malus.finance", "_self");
+    //window.location.href = "/discover";
   }
 
   render() {
