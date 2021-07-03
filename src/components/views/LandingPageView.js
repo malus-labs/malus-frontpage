@@ -13,7 +13,7 @@ const LandingPageView = (props) => {
         <a class="optionCell" target="_blank" rel="noopener noreferrer" href={option.link}>
           <div>
             <div class="optionIcon">
-              <img src={require(`../../images/${option.image}`)} alt=""></img>
+              <img src={`${option.image}`} alt=""></img>
             </div>
           </div>
           <div>
