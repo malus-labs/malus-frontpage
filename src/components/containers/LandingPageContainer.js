@@ -6,9 +6,9 @@ class LandingPageContainer extends Component {
     super(props);
     this.state = { 
       moreOptions: [
-        {image: "twitter.svg", name: "Twitter",  link: "https://twitter.com/malusfinance"}, 
+        {image: "twitter.svg", name: "Twitter",  link: "https://twitter.com/maluslabs"}, 
         {image: "discord.svg", name: "Discord", link: "https://discord.com/channels/850826302641799199/850826303087312938"},
-        {image: "github.svg", name: "Github", link: "https://github.com/malus-finance"},
+        {image: "github.svg", name: "Github", link: "https://github.com/malus-labs"},
         {image: "medium.svg", name: "Medium", link: "https://medium.com/@malus-finance"},
       ],
 
