@@ -1,5 +1,6 @@
 {
   "name": "malus-frontpage",
+  "homepage": "https://malus.fi",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

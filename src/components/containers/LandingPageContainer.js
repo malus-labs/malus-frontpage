@@ -9,7 +9,7 @@ class LandingPageContainer extends Component {
         {image: "twitter.svg", name: "Twitter",  link: "https://twitter.com/maluslabs"}, 
         {image: "discord.svg", name: "Discord", link: "https://discord.com/channels/850826302641799199/850826303087312938"},
         {image: "github.svg", name: "Github", link: "https://github.com/malus-labs"},
-        {image: "medium.svg", name: "Medium", link: "https://medium.com/@malus-finance"},
+        {image: "docs.svg", name: "Docs", link: "https://docs.malus.fi"},
       ],
 
       moreOptionsVisibility: "hidden",
@@ -25,7 +25,7 @@ class LandingPageContainer extends Component {
   }
 
   handleClick = (e) => {
-    window.open("https://app.malus.finance", "_self");
+    window.open("https://app.malus.fi", "_self");
     //window.location.href = "/discover";
   }
 
