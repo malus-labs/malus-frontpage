@@ -25,7 +25,7 @@ class LandingPageContainer extends Component {
   }
 
   handleClick = (e) => {
-    window.open("https://app.malus.fi", "_self");
+    window.open("https://rinkeby.malus.fi", "_self");
     //window.location.href = "/discover";
   }
 
