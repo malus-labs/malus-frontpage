@@ -1,6 +1,6 @@
 # Malus-Frontage
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repo is for the Malus [website](https://malus.fi) frontpage. It is built using React.js and it is an introductory page to the to the application.
 
 ## Frontpage-Image
 
